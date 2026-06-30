@@ -1,0 +1,6 @@
+{
+  "name": "StartLine",
+  "description": "StartLine is an agentic study companion that combats procrastination using personalized interventions and an advanced integrated NotebookLM workspace for grounded notes analysis, custom study guides, and flashcard quizzes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
